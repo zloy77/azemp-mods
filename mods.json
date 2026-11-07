@@ -20,6 +20,11 @@
       "type": "car",
       "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1.0/azemp_ngc_niva_legend.zip"
     },
+     {
+      "name": "Lada Niva Urban",
+      "type": "car",
+      "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1.0/azemp_ngc_niva_urban.zip"
+    },
     {
       "name": "Toyota Prado",
       "type": "car",
@@ -51,9 +56,14 @@
       "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1/azemp_ngc_audi_rs6_c8.zip"
     },
     {
-      "name": "BMW 530",
+      "name": "BMW F10 530i",
       "type": "car",
       "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1/azemp_ngc_bmw_530.zip"
+    },
+     {
+      "name": "BMW F10 535i",
+      "type": "car",
+      "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1/azemp_ngc_bmw_535.zip"
     },
     {
       "name": "BMW E34 Tevzadze",
