@@ -16,16 +16,6 @@
       "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1.0/azemp_c300.zip"
     },
     {
-      "name": "Lada Niva Legend",
-      "type": "car",
-      "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1.0/azemp_ngc_niva_legend.zip"
-    },
-     {
-      "name": "Lada Niva Urban",
-      "type": "car",
-      "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1.0/azemp_ngc_niva_urban.zip"
-    },
-    {
       "name": "Toyota Prado",
       "type": "car",
       "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1.0/azemp_toyota_prado.zip"
@@ -449,6 +439,16 @@
       "name": "Xezer LX",
       "type": "car",
       "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1/azemp_ngc_xezer_lx.zip"
+    },
+    {
+      "name": "Lada Niva Legend",
+      "type": "car",
+      "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1/azemp_ngc_niva_legend.zip"
+    },
+    {
+      "name": "Lada Niva Urban",
+      "type": "car",
+      "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1/azemp_ngc_niva_urban.zip"
     },
     {
       "name": "AC Georgia V6.25",
