@@ -56,6 +56,12 @@
       "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1/azemp_ngc_bmw_535.zip"
     },
     {
+      "name": "GAC Empow",
+      "type": "car",
+      "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1/azemp_ngc_gac_empow.zip"
+    },
+    
+    {
       "name": "BMW E34 Tevzadze",
       "type": "car",
       "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1/azemp_ngc_bmw_e34_tevzadze.zip"
