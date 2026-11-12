@@ -130,6 +130,11 @@
       "type": "car",
       "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1/azemp_ngc_bmw_x5m_f85.zip"
     },
+     {
+      "name": "BMW G30 540i",
+      "type": "car",
+      "url": "https://github.com/azempadmin/azemp-mods/releases/download/v1/azemp_540_g30.zip"
+    },
     {
       "name": "BMW X7",
       "type": "car",
